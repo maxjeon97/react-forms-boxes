@@ -1,0 +1,4 @@
+.NewBoxForm {
+  display: flex;
+  flex-direction: column;
+}
