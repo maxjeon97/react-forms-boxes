@@ -6,6 +6,7 @@ import './Box.css';
  * - backgroundColor
  * - width
  * - height
+ * - remove (function for removing box)
  *
  * State:
  * none
