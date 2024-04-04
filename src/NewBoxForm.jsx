@@ -62,7 +62,7 @@ function NewBoxForm({ addBox }) {
             value={formData.backgroundColor}
             onChange={handleChange} />
             <br />
-            <button type='submit'>Add Box!</button>
+            <button type='submit' className='btn btn-success'>Add Box!</button>
         </form>
         </div>
     );
